@@ -1,5 +1,5 @@
 # smart-investor-analyzer
-This Python application analyzes the stock market and provides investors with useful information for
+Coming from my Engineering 133 final, this Python application analyzes the stock market and provides investors with useful information for
 both immediate and long-term decision-making. The project is prompted by the growing need for
 data-based, user-friendly solutions that make financial markets easier to understand. The tool is
 helpful for both long-term investors seeking sustainable growth and day traders seeking short-term
